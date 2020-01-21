@@ -1,0 +1,10 @@
+POST http://localhost:8082/feedback
+Content-Type: application/json
+
+{
+  "name": "meg",
+  "email": "megha.gotakhindi@gmail.com",
+  "feedback": "Your app is successful"
+}
+
+###

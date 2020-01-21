@@ -1,0 +1,45 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+   
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+   
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.admin-card{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.admin-up{
+    padding-top: 10px;
+}
+
+.card{
+    width: 100px;
+    border-radius: 15px;
+    // padding-top: 10px;
+}
+
+.admin-dashboard{
+    height: 250px;
+}
+
+.cascading-admin-card{
+    float: right;
+    // margin-top: 2rem;
+    text-align: right; 
+  
+  }
